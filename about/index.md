@@ -1,11 +1,4 @@
 
-layout: page
-title: About Me
-image:
-  feature: EducatingPeople-yellow.png
-  <!-- credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
----
 
 Hello, my name is **Dunieski Otano** and I am originally from Cuba. I studied **English Language and Literature** in the University of Havana, Cuba and graduated in 2002. 
 
