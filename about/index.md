@@ -1,13 +1,11 @@
 
 
-Hello, my name is **Dunieski Otano** and I am originally from Cuba. I studied **English Language and Literature** in the University of Havana, Cuba and graduated in 2002. 
+Hello, my name is **Lanise Allen** and I am originally from Miami Gardens, Florida. I studied **Sociology** at University of Florida and graduated in 2015. 
 
-In 2011 I finished my **Master's Degree in Curriculum & Instruction with concentration in ESOL** in Concordia University- Portland, OR. A few years later, I decided to change my career path and went for a **Bachelor's Degree in Software Engineering** from Keiser University and graduated in 2017. 
+While enrolled at the University of Florida, I worked in various office support roles within the University, and interned with Big Brothers Big Sisters of Mid-Florida. I then worked with Victoria & Associates as a temporary office assistant, assigned to Royal Caribbean Cruises, Ltd (RCCL). In January 2017, I worked as a Non-Clinical Case Coordinator in Royal Caribbean's Risk Management Department, responsible for ensuring prompt and adequate medical care for ill and injured cruise ship employees in their home country. It was there that I learned a few aspects of computer and IT support. In September of 2019, I enrolled in Generation USA, a 12-week intensive program in partnership with Amazon Web Services to become a Cloud Support Practitioner.
 
-Since my graduation as a software engineer, I have been developing software, creating websites, full stack applications, and getting expertise in AWS services. I recently got the following AWS certifications: [**AWS Certified SysOps Administrator Associate**](https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-09-10&ci=AWS00993439), and [**AWS Certified Solutions Architect Associate**](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439).
+Upon completing this program, I will seek opportunities to work in Entry Level positions in IT. I will also study for the AWS Solutions Architect and AWS SysOps Certification. I would also like to complete my **Master's Degree in Business Administration** in the near future.
 
-Soon I will be getting my Developer AWS certifications and in 2020 I am planning to start my **Master's Degree in Computer Science**. 
-
-<a markdown="0" href="https://www.linkedin.com/in/mr-d-80249a152/" class="btn">More on Dunieski</a>
+<a markdown="0" href="https://www.linkedin.com/in/mr-d-80249a152/" class="btn">More on Lanise</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
