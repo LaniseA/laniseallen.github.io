@@ -6,6 +6,6 @@ While enrolled at the University of Florida, I worked in various office support 
 
 Upon completing this program, I will seek opportunities to work in Entry Level positions in IT. I will also study for the **AWS Solutions Architect and AWS SysOps Certification**. I would also like to complete my **Master's Degree in Business Administration** in the near future.
 
-<a markdown="0" href="https://www.linkedin.com/in/mr-d-80249a152/" class="btn">More on Lanise</a>
+<a markdown="0" href="https://www.linkedin.com/in/laniseallen/" class="btn">More on Lanise</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
