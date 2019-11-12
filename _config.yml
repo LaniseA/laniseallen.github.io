@@ -3,7 +3,7 @@
 title: Lanise Allen
 locale: en_US
 description: A simple and clean responsive Jekyll theme for words and photos.
-logo: site-logo.png
+logo: Lanise Allen img_9787_5x7.jpg-autosave.kra
 url: https://LaniseAllen.github.io
 
 # Jekyll configuration
@@ -42,20 +42,7 @@ owner:
   disqus-shortname: sosimpletheme
   twitter: LaniSherron
   facebook: Lanise Allen
-  github: LaniseA
-  stackexchange:
-  linkedin:
-  instagram: 
-  flickr:
-  tumblr: 
-  pinterest:
-  weibo:
-  google:
-    plus: Lanise A 
-    analytics: UA-2011187-2
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
-
+  github: laniseallen
+  linkedin: laniseallen
+  
 theme: jekyll-theme-slate
