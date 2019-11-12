@@ -37,12 +37,10 @@ comments: true
 # Site owner
 owner:
   name: Lanise Allen
-  avatar: 
+ name: Lanise Allen
   email: laniseallen@yahoo.com
   disqus-shortname: sosimpletheme
-  twitter: LaniSherron
-  facebook: Lanise Allen
-  github: laniseallen
+  github: https://github.com/laniseallen
   linkedin: laniseallen
   
 theme: jekyll-theme-slate
