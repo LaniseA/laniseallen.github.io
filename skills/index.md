@@ -9,6 +9,8 @@ image:
  creditlink: https://pixlr.com/x/ -->
 ---
 <!--Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).-->
+
+
 <hr/>
 **Technical**
   * AWS Services :
@@ -22,6 +24,7 @@ image:
      * AWS CloudWatch
      * AWS CloudFront
      * AWS Elastic Beanstalk
+     
 **Technologies**
   * Operating Systems
      * Linux (Ubuntu)
