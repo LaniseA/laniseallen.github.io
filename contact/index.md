@@ -10,6 +10,7 @@ image:
 ---
 
 <hr/>
+
 <span><strong>Call me at:</strong></span><span style="color: blue"> (786) 245-5761</span><br/>
 
 
@@ -17,4 +18,5 @@ image:
 
 
 <span><strong>Find me on LinkedIn:</strong></span> <a style="color: blue" href="https://www.linkedin.com/in/laniseallen/"> https://www.linkedin.com/in/laniseallen/</a>
+
 <hr/>
