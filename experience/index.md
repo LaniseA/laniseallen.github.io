@@ -6,13 +6,45 @@ modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: EducationQuote.png 
   <!--credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
+  creditlink: https://we.graphics/item/minimal-web-pixel-patterns/ -->
 ---
 
 <!--Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).-->
 
 <hr/>
+Skills
 
+Technical
+
+AWS Services :
+
+AWS EC2
+
+AWS Lambda
+
+AWS Elastic Load Balancer
+
+AWS S3
+
+AWS EBS
+
+AWS IAM
+
+Amazon VPC
+
+AWS CloudWatch
+
+Technologies
+
+Operating Systems
+Linux (Ubuntu)
+Mac OS
+Window
+Programming Languages
+Python
+Databases Management System
+PostgreSQL
+Manufacturing Industry Skills
 
 
 
