@@ -20,6 +20,8 @@ image:
      * AWS IAM
      * Amazon VPC
      * AWS CloudWatch
+     * AWS CloudFront
+     * AWS Elastic Beanstalk
 **Technologies**
   * Operating Systems
      * Linux (Ubuntu)
@@ -29,10 +31,6 @@ image:
      * Python
   * Databases Management System
      * PostgreSQL
-**Manufacturing Industry Skills**
-  * Machined small and large pieces.
-  * Fanuc ( CNC Machine Programming Languages).
-  * 2D/3D Design Software (Autocad, Autodesk Inventor, Solidworks, Catia)
-  * Great ability to read and interpret blueprints.
-  * Ability to work without immediate supervision.
+     * MySQL
+
 [^1]: Example: *domain.com/category-name/post-title*
