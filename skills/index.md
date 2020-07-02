@@ -24,16 +24,20 @@ image:
      * AWS CloudWatch
      * AWS CloudFront
      * AWS Elastic Beanstalk
+     * AWS Cloudformation
+     * AWS SAM
      
      
 **Technologies**
   * Operating Systems
      * Linux (Ubuntu)
      * Mac OS
-     * Window
+     * Windows
   * Programming Languages
      * Python
-  * Databases Management System
+     * JavaScript
+     * Ruby
+  * Database Management System
      * PostgreSQL
      * MySQL
 
