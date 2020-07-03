@@ -11,7 +11,9 @@ image:
 <!--Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).-->
 
 <hr/>
-
+**Product Management**
+  * Experience with leading a team of developers and architects in implenting AWS solutions
+  * Developing and maintaining product backlog and features on Jira
 **Technical**
   * AWS Services :
      * AWS EC2
@@ -26,6 +28,16 @@ image:
      * AWS Elastic Beanstalk
      * AWS Cloudformation
      * AWS SAM
+     * Athena
+     * Amplify
+     * Cloudfront
+     * QuickSight
+     * Cloud9
+     * DynamoDB
+     * Glue
+     * API Gateway
+     * Kinesis Data Streams, Kinesis Analytics, Kinesis Firehose
+     * Redshift
      
      
 **Technologies**
@@ -35,10 +47,21 @@ image:
      * Windows
   * Programming Languages
      * Python
-     * JavaScript
+     * JavaScript (Eclipse, Visual Studio)
      * Ruby
-  * Database Management System
+     * JSON
+     * YML
+     * Bootstrap (Visual Studio)
+     * HTML (Visual Studio)
+     * CSS
+     * Java (Eclipse)
+  * Database Management Systems
      * PostgreSQL
      * MySQL
+     * Microsoft SQL Server
+     * Microsoft Access
+     * DynamoDB (NoSQL)
+     
+
 
 [^1]: Example: *domain.com/category-name/post-title*
