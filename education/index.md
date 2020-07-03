@@ -3,19 +3,11 @@ layout: page
 title: Education
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: 
-  <!--credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
+
 ---
 
 <hr/>
 
-
-  
-**Nova Southeastern University (2020 - )**
-   
-   * Master's Degree in Business Administration
    
 **Miami Dade College (September 2019 - November 2019)**
    * Certificate, AWS Cloud Support Practitioner (Boot Camp)   
