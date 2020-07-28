@@ -13,8 +13,10 @@ image:
 <hr/>
 **Product Management**
   * Experience with leading a team of developers and architects in implenting AWS solutions
-  * Developing and maintaining product backlog and features on Jira
-**Technical**
+  * Developing and maintaining product backlog and features in jira
+  
+  
+**Technical Competency**
   * AWS Services :
      * AWS EC2
      * AWS Lambda
@@ -45,6 +47,7 @@ image:
      * Linux (Ubuntu)
      * Mac OS
      * Windows
+     
   * Programming Languages
      * Python
      * JavaScript (Eclipse, Visual Studio)
@@ -55,6 +58,7 @@ image:
      * HTML (Visual Studio)
      * CSS
      * Java (Eclipse)
+     
   * Database Management Systems
      * PostgreSQL
      * MySQL
