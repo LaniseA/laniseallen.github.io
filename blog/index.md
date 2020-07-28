@@ -1,3 +1,6 @@
+<html>
+<head>
+<style>
 div{
    background-color:pink;
    color: purple;
