@@ -36,7 +36,7 @@ image:
      * DynamoDB
      * Glue
      * API Gateway
-     * Kinesis Data Streams, Kinesis Analytics, Kinesis Firehose
+     * Kinesis Data Streams, Kinesis Analytics
      * Redshift
      
      
