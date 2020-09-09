@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Articles
-excerpt: "Coming Soon!."
+excerpt: "Coming Soon!"
 search_omit: true
 ---
 
