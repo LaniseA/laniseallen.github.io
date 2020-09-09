@@ -6,7 +6,7 @@ Throughout the internship, I was introduced to the agile development environment
 
 My learning did not stop there. As society shifted to more virtual settings in light of the COVID-19 pandemic, I was curious to further my cloud computing knowledge by learning Microsoft Azure at Miami Dade College. I also needed to refresh my coding skills, and participated in a JavaScript virtual study group with women students and technologists from all over the world. In August 2020, I was excited to have passed the **Microsoft Azure Fundamentals** certfication. 
 
-Today, I am currently seeking full-time opprtunities to work in the field Cloud Computing, while creating Data Visualization projects in my spare time. My quest for knowledge continues as I am currently learning Salesforce Fundamentals, and will soon participate in Google's IT Automation with Python course. In the future, I hope to further my knowledge in Information Systems by completing a **Master's Degree **.
+Today, I am currently seeking full-time opprtunities to work in the field Cloud Computing, while creating Data Visualization projects in my spare time. My quest for knowledge continues as I am currently learning Salesforce Fundamentals, and will soon participate in Google's IT Automation with Python course. In the future, I hope to further my knowledge in Information Systems by completing a **Master's Degree**.
 
 <a markdown="0" href="https://www.linkedin.com/in/laniseallen/" class="btn">More on Lanise</a>
 
