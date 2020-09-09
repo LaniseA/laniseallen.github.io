@@ -11,9 +11,10 @@ image:
 <!--Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).-->
 
 <hr/>
+
 **Product Management**
   * Experience with leading a team of developers and architects in implenting AWS solutions
-  * Developing and maintaining product backlog and features in jira
+  * Developing and maintaining product backlog and features in Jira
   
   
 **Technical Competency**
@@ -51,7 +52,6 @@ image:
   * Programming Languages
      * Python
      * JavaScript (Eclipse, Visual Studio)
-     * Ruby
      * JSON
      * YML
      * Bootstrap (Visual Studio)
@@ -65,6 +65,7 @@ image:
      * Microsoft SQL Server
      * Microsoft Access
      * DynamoDB (NoSQL)
+     
      
 
 
