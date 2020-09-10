@@ -14,9 +14,10 @@ image:
 
 **Projects Include**
   * QuickSight Analytics Dashboard to track the demand of orders placed in a restaurant by time of day in a given month
+  * QuickSight Analytics for measuring car maintenance schedule
   * Online Pizza Ordering Platform on Python
   * Creating an Amazon Shopping List on HTML
-  * Retail Application using Python & PostgresSQL
+  * Retail Application using Python & PostgreSQL
      
 
 
